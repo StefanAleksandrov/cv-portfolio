@@ -146,17 +146,14 @@ div.languages div.languages {
 
 div.languages div.languages table{
     border-collapse: collapse;
-    font-size: 0.85rem;
-    margin: -0.5em auto 0;
+    font-size: 0.8rem;
+    margin: -0.25em auto 0;
 }
 
 div.languages div.languages table, th, td {
     border: 2px solid rgb(55, 61, 72);
-}
-
-div.languages div.languages th, td {
     text-align: center;
-    padding: 0.5em;
+    padding: 0.3em;
 }
 
 div.computerSkills {
